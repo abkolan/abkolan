@@ -43,7 +43,7 @@ philosophy:     "make it work, make it right, make it fast, make it pretty"
 
 ---
 
-### `⚠️  ALERT: alt account detected`
+### `ALERT: alt account`
 
 > **[@abhilast](https://github.com/abhilast)**  this is my alt. he lives dangerously.
 >
