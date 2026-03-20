@@ -55,8 +55,6 @@ philosophy:     "make it work, make it right, make it fast, make it pretty"
 > If `@abkolan` is the production cluster, `@abhilast` is the dev namespace
 > with `--force` flags and no resource limits.
 >
-> **Proceed at your own risk.** 💀
-
 ---
 
 <p align="center">
